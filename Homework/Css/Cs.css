@@ -1,0 +1,209 @@
+body{
+	background-color: rgb(25 25 25);
+	font-family: Arial;
+}
+div.Leader{
+	width: 1100px;
+	margin: 0 auto;
+}
+img.img-head{
+	width: 1100px;
+	height: 100px;
+	border-radius: 5px;
+}
+div.head-img{
+	margin-top: 4px;
+}
+.Navi-img{
+	width: 150px;
+	position: absolute;
+	top: 38px;
+	left: 25px;
+}
+
+.menu-button{
+	color: rgb(250 250 150);
+	margin-left: 4px; 
+}
+.menu-l{
+	margin-left: 4px;
+}
+a{
+	text-decoration: none;
+}
+div.block{
+	width: 1100px;
+	height: 140px;
+	margin: 0 auto;
+	position: relative;
+}
+div.block-two{
+	background-color: rgb(35 35 35);
+	width: 1100px;
+	height: 940px;
+	border-radius: 5px;
+	margin: 0 auto;
+	position: relative;
+}
+div.button{
+	background-color: rgb(184, 162, 0);
+	width: 1100px;
+    height: 30px;
+    border-radius: 5px;
+
+}
+a.knop{
+	color: rgb(250 250 250);
+	text-decoration: none;
+	text-shadow: 0 0 5px rgb(0 0 0);
+	border-right:2px solid rgb(250 250 250);
+	padding-right: 6px;
+}
+div.center-knop{
+	position: absolute;
+	top: 4px;
+	margin-left: 5px; 
+}
+div.left{
+	margin: 5px;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+div.center{
+	margin: 0 auto;
+	width: 650px;
+	position: absolute;
+	left: 225px;
+}
+div.right{
+	margin: 3px;
+	background-color: rgb(25 25 25);
+	border: 2px solid rgb(45 45 45);
+	width: 200px;
+	height: 200px;
+	border-radius: 7px;
+	position: absolute;
+	right: 0;
+}
+div.footer{
+	color: rgb(250 250 250);
+	background-color: rgb(0 0 0);
+	margin: 0 auto;
+	margin-top: 5px;
+	border: 2px solid rgb(30 30 30);
+	border-radius: 5px;
+	width: 1100px;
+	height: 50px;
+	position: relative;
+}
+.Menu{
+	color: rgb(250 250 250);
+    border:2px solid rgb(100 100 100); 
+	background-color: rgb(60 60 60);
+	border-radius: 3px;
+}
+.razrabotka{
+    border:2px solid rgb(50 50 50); 
+	background-color: rgb(0 0 0);
+	border-radius: 3px;
+}
+.right-d{
+	background-color: rgb(184, 162, 0);
+	color: rgb(250 250 250);
+	text-shadow: 0 0 5px rgb(0 0 0);
+	text-align: center;
+	border-radius: 5px;
+}
+.big{
+	font-size: 40px;
+	color: rgb(250 250 150);
+}
+.big-all{
+	font-size: 20px;
+	color: rgb(250 250 250);
+}
+.f_t{
+	margin: 20px;
+}
+div.block-two-raz{
+	background-color: rgb(35 35 35);
+	width: 1100px;
+	height: 3150px;
+	border-radius: 5px;
+	margin: 0 auto;
+	position: relative;
+}
+div.Leader-raz{
+	width: 1100px;
+	height: 3150px;
+	margin: 0 auto;
+	position: relative;
+}
+div.block-two-vip{
+	background-color: rgb(35 35 35);
+	width: 1100px;
+	height: 4250px;
+	border-radius: 5px;
+	margin: 0 auto;
+	position: relative;
+}
+div.Leader-vip{
+	width: 1100px;
+	height: 4250px;
+	margin: 0 auto;
+	position: relative;
+}
+div.Leader-cyber{
+	width: 1100px;
+	height: 450px;
+	margin: 0 auto;
+	position: relative;
+}
+div.block-two-cyber{
+	background-color: rgb(35 35 35);
+	width: 1100px;
+	height: 450px;
+	border-radius: 5px;
+	margin: 0 auto;
+	position: relative;
+}
+div.reg-block{
+	background-color: rgb(45 45 45);
+	margin: 0 auto;
+	width: 1100px;
+	height: 450px;
+	position: relative;
+}
+div.registration{
+	font-size: 20px;
+	color: rgb(250 250 250);
+	margin: 20px;
+}
+div.block-reg{
+	width: 1100px;
+	height: 450px;
+	margin: 0 auto;
+	position: relative;
+}
+.polzovatelskoe{
+	font-size: 15px;
+}
+div.vhod-block{
+	background-color: rgb(45 45 45);
+	margin: 0 auto;
+	width: 1100px;
+	height: 250px;
+	position: relative;
+}
+div.block-vhod{
+	width: 1100px;
+	height: 250px;
+	margin: 0 auto;
+	position: relative;
+}
+div.vhod{
+	font-size: 20px;
+	color: rgb(250 250 250);
+	margin: 20px;
+}
